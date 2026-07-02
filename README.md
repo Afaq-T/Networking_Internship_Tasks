@@ -30,23 +30,6 @@ All work is documented with full reports and supporting screenshots.
 
 ---
 
-## Repository Structure
-
-Networking_Internship_Tasks/
-│
-├── Week1/
-│   ├── Week1_Report.docx
-│   ├── complete_design.png
-│   ├── cisco_router-config.png
-│   ├── PC0_ping.png
-│   ├── laptop0_ping.png
-│   ├── PC1_ping.png
-│   ├── gns3_topo.jpeg
-│   ├── gns3_pc1.jpeg
-│   ├── gns3_pc2.jpeg
-│   └── gns3_pc3.jpeg
-│
-└── README.md
 ---
 
 ## Tools & Technologies
